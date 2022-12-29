@@ -1,5 +1,5 @@
 ### Hi!👋 I am Gleb!
-Junior Java Developer with more than 6 months of commertial experience.\
+𝐉𝐮𝐧𝐢𝐨𝐫 𝐉𝐚𝐯𝐚 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 with more than 6 months of commertial experience.\
 I have excellent knowledge in backend development on Java and Spring framework. \
 I have worked in many industries on many projects. Good knowledge of :\
 👉 Databases(SQL,NoSQL), database management systems(MySQL, PostgreSQL, MongoDB)\
