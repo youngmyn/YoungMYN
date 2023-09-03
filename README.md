@@ -12,5 +12,5 @@
 
 <p align='center'>
    📫 How to reach me: <a href='mailto:shyliko315on@gmail.com'>shyliko315on@gmail.com</a><br>
-   🔵 Telegram <a href='t.me/young_myn'>@young_myn</a>
+   🔵 Telegram <a href='https://t.me/young_myn'>@young_myn</a>
 </p>
